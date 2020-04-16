@@ -4,14 +4,14 @@
 # Common programming paradigms include:[1][2][3] 
   https://en.wikipedia.org/wiki/Programming_paradigm
 
-- 1. "Imperative": in which the programmer instructs the machine how to change its state,
-   ## a. 'Procedural': which groups instructions into procedures,
-   ## b. 'Object-oriented': which groups instructions together with the part of the state they operate on,
+## 1. "Imperative": in which the programmer instructs the machine how to change its state,
+    - a. 'Procedural': which groups instructions into procedures,
+    - b. 'Object-oriented': which groups instructions together with the part of the state they operate on,
 
-- 2. "Declarative": in which the programmer merely declares properties of the desired result, but not how to compute it
-  ## a.'Functional': in which the desired result is declared as the value of a series of function applications,
-  ## b.'Logic':  in which the desired result is declared as the answer to a question about a system of facts and rules,
-  ## c. 'Mathematical': in which the desired result is declared as the solution of an optimization problem
+## 2. "Declarative": in which the programmer merely declares properties of the desired result, but not how to compute it
+  - a.'Functional': in which the desired result is declared as the value of a series of function applications,
+  - b.'Logic':  in which the desired result is declared as the answer to a question about a system of facts and rules,
+  - c. 'Mathematical': in which the desired result is declared as the solution of an optimization problem
 
 # Design Patterns with modern JavaScript
 
